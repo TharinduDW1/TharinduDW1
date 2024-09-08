@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tharindu
+- 👋 Hi, I’m Tharindu [AKA : Snoopy]
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
